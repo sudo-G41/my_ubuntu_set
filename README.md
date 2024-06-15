@@ -9,12 +9,12 @@
 ## [python](./python.sh)
 how to install python other version
 1. before python install
-> zlib module install
-> /usr/local chown change to user
+    * zlib module install
+    * /usr/local chown change to user
 
 1. python.org ftp search python version
-> url : https://www.python.org/ftp/python
-> or https://www.python.org/ftp/python/[version]/[python archive]
+    * url : https://www.python.org/ftp/python
+    * or https://www.python.org/ftp/python/[version]/[python archive]
 
 1. archive extract
 1. change dir with download python dir
