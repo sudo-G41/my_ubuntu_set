@@ -7,3 +7,4 @@ set shiftwidth=4
 set tabstop=4
 set autoread
 set history=256
+syntax on
